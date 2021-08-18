@@ -18,10 +18,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".bottombarlayout.ViewPagerDemoActivity"/>
+<!--        <activity android:name=".bottombarlayout.ViewPagerDemoActivity"/>-->
         <activity android:name=".bottombarlayout.LottieDemoActivity"/>
-        <activity android:name=".bottombarlayout.FragmentManagerActivity"/>
-        <activity android:name=".bottombarlayout.DynamicAddItemActivity"/>
+<!--        <activity android:name=".bottombarlayout.FragmentManagerActivity"/>-->
+<!--        <activity android:name=".bottombarlayout.DynamicAddItemActivity"/>-->
     </application>
 
 </manifest>
